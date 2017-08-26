@@ -12,4 +12,4 @@ def findLargest(s,d):
 
     
     
-    print()
+    return s
